@@ -50,3 +50,34 @@
 12) Write a short program that prints the numbers 1 to 10 using a for loop. Then write an equivalent program that prints the numbers 1 to 10 using a while loop.
 
 13) If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
+
+# Assignment_3
+
+Why are functions advantageous to have in your programs?
+
+When does the code in a function run: when it's specified or when it's called?
+
+What statement creates a function?
+
+What is the difference between a function and a function call?
+
+How many global scopes are there in a Python program? How many local scopes?
+
+What happens to variables in a local scope when the function call returns?
+
+What is the concept of a return value? Is it possible to have a return value in an expression?
+
+If a function does not have a return statement, what is the return value of a call to that function?
+
+How do you make a function variable refer to the global variable?
+
+What is the data type of None?
+
+What does the sentence import areallyourpetsnamederic do?
+
+If you had a bacon() feature in a spam module, what would you call it after importing spam?
+
+What can you do to save a programme from crashing if it encounters an error?
+
+What is the purpose of the try clause? What is the purpose of the except clause?
+
